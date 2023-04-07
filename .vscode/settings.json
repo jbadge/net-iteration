@@ -1,0 +1,6 @@
+{
+  "debug.allowBreakpointsEverywhere": false,
+  "scm.alwaysShowActions": true,
+  "debug.toolBarLocation": "floating",
+  "debug.showSubSessionsInToolBar": true
+}
